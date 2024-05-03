@@ -1,10 +1,10 @@
 ## Installation
-The code should run with no issues using Python versions 3.*.
+The code should run with no issues using Python version 3.*.
 
 ## Project Motivation
-For this project, I was interestested in using Stack Overflow data from 2020 to understand better:
+For this project, I was interested in using Stack Overflow data from 2020 to understand better:
 1. What were the most worked programming languages worldwide?
-2. What are the top 3 countries who participated in Stack Overflow Survey 2020?
+2. What are the top 3 countries that participated in the Stack Overflow Survey 2020?
 3. What are the top 10 most worked languages in these top 3 countries?
 
 ## File Descriptions
